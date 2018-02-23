@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    margin:0% !important;
+    font-size: 105%;
+}
+.text-align-center
+{
+    text-align: center;
+}
+.labelText label
+{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.font-custom
+{
+    font-size: 14px;
+    font-weight: 500;
+}
+.clear-fix
+{
+    margin: 1%;
+}
+.right-align
+{
+    float:right;
+}
+.center-align
+{
+   align-content: center;
+}
+.red-border-class
+{
+    border-color: red;
+}
+.table-text-wrap
+{
+    word-wrap:break-word;
+    word-break: break-all;
+     
+}
+.table-header-padding
+{
+    width: 30%;
+    padding-right: 50%;
+}
+.tbl-align
+{
+    text-align: center;
+}
